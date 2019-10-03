@@ -1,0 +1,7 @@
+Matplotlib_challenge
+Matplotlib Homework _ SHL
+OBSERVATIONS:
+1. Between Capomulin, Infubinol, Ketapril, and a Placebo, Capomulin shrank the squamous cell tumors while each of the comparison drugs (Infubinol and Ketapril) actually led to tumor increase.
+2. None of the drugs in our comparison prevented metastasis from occurring, but Capomulin appears to have been the greatest inhibitor as compared to Infubinol and Ketapril. Ketrapril was equally as ineffective as Placebo at 45 days.
+3. Mice treated with Capomulin had substantially higher survival rates even though the duration of treatment has a negative effect on survival rates over time.
+4. Of the four comparison drugs, Capomulin clearly shows the most promise from this trial for treating the spread of squamous cell carcinoma (SCC).
